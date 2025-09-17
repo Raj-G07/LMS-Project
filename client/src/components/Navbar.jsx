@@ -41,7 +41,7 @@ const Navbar = ()=>{
                     <Avatar>
   <AvatarImage className="cursor-pointer" src={user?.photoUrl || "https://github.com/shadcn.png"} />
   <AvatarFallback>CN</AvatarFallback>
-</Avatar>
+        </Avatar>
 
                     </DropdownMenuTrigger>
                     <DropdownMenuContent className="w-56">

@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",      // For JavaScript/TypeScript linting
+    "esbenp.prettier-vscode",      // For code formatting
+    "ms-vscode.vscode-typescript-next", // For TypeScript support (if using TS)
+    "formulahendry.auto-close-tag",    // For HTML/JSX tag completion
+    "formulahendry.auto-rename-tag"    // For HTML/JSX tag renaming
+  ]
+}

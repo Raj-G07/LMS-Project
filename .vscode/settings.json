@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "name": "client",
+      "path": "client"
+    },
+    {
+      "name": "server",
+      "path": "server"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "eslint.enable": true,
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/node_modules": true,
+      "**/dist": true
+    }
+  }
+}

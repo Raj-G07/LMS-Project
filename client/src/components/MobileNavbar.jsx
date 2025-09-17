@@ -22,7 +22,8 @@ const MobileNav = ({user})=>{
         <div className="flex gap-2">
         <School size={"30"}/>
         <h1 className="text-2xl font-bold"><Link to="/">E-learning
-        </Link> </h1>
+        </Link>
+         </h1>
         </div>
           <DarkMode/>
         </SheetHeader>

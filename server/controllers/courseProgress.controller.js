@@ -1,5 +1,6 @@
 import {Course} from "../models/course.model.js"
 import { CourseProgress } from "../models/courseProgress.model.js";
+
 export const getCourseProgress= async (req,res) => {
     try {
         const {courseId} = req.params;
